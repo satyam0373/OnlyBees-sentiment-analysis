@@ -51,6 +51,3 @@ The model was evaluated on a manually annotated test set of regional user commen
 * **Data Processing:** Pandas, NumPy
 * **Visualization:** Matplotlib, Seaborn (for pitch deck charts)
 
-**Satyam Kumar Singh** *Business and Decision Analytics Intern @ Onlybees Pvt. Ltd.*
-README.md
-Displaying README.md.
